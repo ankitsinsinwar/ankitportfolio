@@ -12,7 +12,7 @@ const Intro = () => {
             <p className='introPara'>I am a skilled and passionate web designer with experience in creating <br/>visually appealing and user friendly websites.</p>
             <Link to='contact'><button className='btn'><img src={btnImg} alt='hire me' className='btnImg'/>Hire Me</button></Link>
         </div>
-        <img src={} alt='Profile' className='bg'/>
+        
 
     </section>
   )
